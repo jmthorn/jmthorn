@@ -1,1 +1,1 @@
-Hello!
+Hello, I'm a Full Stack Software Engineer! I graduated App Academy, an +1000-hour software engineering bootcamp where I honed my skills in **React.js, Redux.js, Python, CSS, Node.js, ProgreSQL** and more. I am currently looking for a position where I can continue to make a meaningful impact and while nurturing my skills. Reach out if you'd like to [work](mailto:jmthorn16@gmail.com) with me!
